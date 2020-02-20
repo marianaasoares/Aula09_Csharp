@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\bin\Debug\netcoreapp3.1\List_Csharp.exe
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\bin\Debug\netcoreapp3.1\List_Csharp.deps.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\bin\Debug\netcoreapp3.1\List_Csharp.runtimeconfig.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\bin\Debug\netcoreapp3.1\List_Csharp.runtimeconfig.dev.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\bin\Debug\netcoreapp3.1\List_Csharp.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\bin\Debug\netcoreapp3.1\List_Csharp.pdb
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\obj\Debug\netcoreapp3.1\List_Csharp.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\obj\Debug\netcoreapp3.1\List_Csharp.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\obj\Debug\netcoreapp3.1\List_Csharp.AssemblyInfo.cs
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\obj\Debug\netcoreapp3.1\List_Csharp.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\Array_Csharp\List_Csharp\obj\Debug\netcoreapp3.1\List_Csharp.pdb
